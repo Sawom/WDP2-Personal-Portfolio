@@ -79,3 +79,12 @@ footer{
     color: darkblue;
     text-align: center;
 }
+
+.viewBtn{
+    background-image: linear-gradient(orange,tomato);
+    color: black;
+    padding: 5px 5px;
+    border-radius: 10px;
+    font-weight: 700px;
+    text-decoration: none;
+}
